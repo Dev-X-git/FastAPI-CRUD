@@ -28,7 +28,7 @@ static.{$EXT_ENDPOINT1}:80, static.{$LOCAL_1}:80, static.{$LOCAL_2}:80 {
 #   reverse_proxy minio_server:9000 
 # }
 
-# stash.{$EXT_ENDPOINT1}, stash.{$LOCAL_1}, stash.{$LOCAL_2} {
+## stash.{$EXT_ENDPOINT1}, stash.{$LOCAL_1}, stash.{$LOCAL_2} {
 #   reverse_proxy minio_server:9090 
 # }
 
