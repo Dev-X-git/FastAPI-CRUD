@@ -25,4 +25,4 @@
 
 #### 💅 Polish
 
-- `Add sample endpoints to use NLP transformers modles `
+- `Add sample endpoints to use NLP transformers modles. `
